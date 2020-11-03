@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Micra';
+    src: url('../fonts/Micra.eot');
+    src: url('../fonts/Micra.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Micra.woff') format('woff'),
+    url('../fonts/Micra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Micra';
+    src: url('../fonts/Micra-Bold.eot');
+    src: url('../fonts/Micra-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Micra-Bold.woff') format('woff'),
+    url('../fonts/Micra-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

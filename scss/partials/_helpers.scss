@@ -1,0 +1,29 @@
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.block {
+    display: block;
+}
+.text-center {
+    text-align: center;
+}
+.primary {
+    color: $primary;
+}
+.primary-bg {
+    background: $primary;
+    padding: 5px;
+}
+.shadow {
+    filter: drop-shadow(0px 0px 5px #3c00ff);
+    font-weight: bold;
+}
+.yellow {
+    color: #fff000;
+}
+.grid {
+    display: grid;       
+}
